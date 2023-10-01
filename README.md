@@ -6,13 +6,15 @@ This following repository is to study the Lorenz system of the Chaos Theory
 * It was developed by meterologist Edward Lorenz in the early 1960 to model atmospheric convection, but it has since become a fundamental example of chaos theory
 * It is represented by there coupled differential equation: 
 
-$$
+$
 \frac{dx}{dt} = \sigma * (y-x)
-
+$
+$
 \frac{dy}{dt} = x*(\rho - z) - y
-
+$
+$
 \frac{dz}{dt} = xy-\beta*z
-$$
+$
 
 ## Lorenz System Behavior 
 
