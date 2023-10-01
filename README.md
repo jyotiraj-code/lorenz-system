@@ -22,10 +22,15 @@ $$
 ## Lorenz System Behavior 
 
 * Sensitivity to Intial Conditions
+
 = The Lorenz System is highly sensitive to its initial condition, small differences in the inital values of x, y and z can lead to dramatically different trajectories over time.
 
-* Stragne Attractor
+* Strange Attractor
+
 = The Lorenz System does not settle into a stable equilibrium on periodic orbit. Instead its trajectories form a complex non-repeating pattern as "Strange attractor". 
 
 * Bigurcations
+
 = By varying the parameters $\sigma, \rho, \beta$ one can observe bifurcation digrams that shows how the system's behavior chages as these parameters are adjusted. Bifurcations are points at which the system transitions from one type of behavior to another, such as from periodic to chaotic motion.
+
+![Buttery Fly Effect by Lorenz System](Butterfly.png)
